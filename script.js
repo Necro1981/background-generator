@@ -37,3 +37,5 @@ function setRandomColors() {
 random.addEventListener("click", setRandomColors);
 color1.addEventListener("input", pickColor);
 color2.addEventListener("input", pickColor);
+
+//new changes
